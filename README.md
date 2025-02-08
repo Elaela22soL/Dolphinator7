@@ -1,9 +1,7 @@
 Hi there 👋, I am Udogwu Peterside Rudolph
 ![gif3](https://user-images.githubusercontent.com/111272189/227746828-a23a8ad3-5227-411b-80cc-c45f0fe23602.gif)
 
-I am a software Engineer/Developer and Petrochemical Engineer from Nigeria 🇳🇬.
-
-I'm passionate about how technology boosts productivity and economic growth. I think is important to ask why and what we want to achieve before starting a project. I love how ideas come true by typing lines of code. I take a special liking to Web Development and the cool things we can do with HTML, CSS, Python, JavaScript and recent developments.
+I'm passionate about how technology boosts productivity and economic growth. I think is important to ask why and what we want to achieve before starting a project. I love how ideas come true by typing lines of code. I take a special liking to Web Development and the cool things we can do with HTML, CSS, Python, Data Analysis, Data Science, JavaScript and recent developments.
 
 I love food and travel. I think There's no better way to understand a culture than through its food. Also I enjoy reading, anime and outdoor activities
 
