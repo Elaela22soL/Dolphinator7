@@ -1,11 +1,13 @@
 Hi there 👋, I am Udogwu Peterside Rudolph
 ![gif3](https://user-images.githubusercontent.com/111272189/227746828-a23a8ad3-5227-411b-80cc-c45f0fe23602.gif)
 
-I'm passionate about how technology boosts productivity and economic growth. I think is important to ask why and what we want to achieve before starting a project. I love how ideas come true by typing lines of code. I take a special liking to Web Development and the cool things we can do with HTML, CSS, Python, Data Analysis, Data Science, JavaScript and recent developments.
+I specialize in data analysis, visualization, and full-stack development, leveraging Python, SQL, and JavaScript to create data-driven solutions that drive business growth. Passionate about machine learning, automation, and optimizing decision-making with data, I enjoy working on projects that blend data science and software engineering.
 
-I love food and travel. I think There's no better way to understand a culture than through its food. Also I enjoy reading, anime and outdoor activities
+🔹 Tech Stack: Python, SQL, JavaScript, React.js, Node.js, Power BI, Looker, Snowflake
+🔹 Interests: Data Analytics, Machine Learning, A/B Testing, Business Intelligence, Fintech, DeFi
+🔹 Projects: AI-Driven Sales Dashboards, E-Commerce Analytics, Automated Reporting Systems
 
-Connect With Me on
+📊 Let’s connect! Check out my work and feel free to collaborate! 🚀
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227747210-a5d62ebc-ee96-41dc-8e58-cf663f6ff25f.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333833334142342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/111272189/227746897-0fc63169-4436-4492-9e38-bf33d166fee5.svg)
