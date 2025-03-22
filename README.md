@@ -1,4 +1,4 @@
-Hi there 👋, I am Udogwu Peterside Rudolph
+Hi there 👋, I am Peterside Rudolph
 ![gif3](https://user-images.githubusercontent.com/111272189/227746828-a23a8ad3-5227-411b-80cc-c45f0fe23602.gif)
 
 I specialize in data analysis, visualization, and full-stack development, leveraging Python, SQL, and JavaScript to create data-driven solutions that drive business growth. Passionate about machine learning, automation, and optimizing decision-making with data, I enjoy working on projects that blend data science and software engineering.
